@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/lib/com.fingerprints.extension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.fingerprints.extension@1.0.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.keymaster@3.0-impl-qti.so \
-    vendor/xiaomi/ysl/proprietary/vendor/lib/hw/consumerir.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/consumerir.msm8953.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/hw/gf_fingerprint.goodix.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gf_fingerprint.goodix.default.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/hw/fingerprint.fpc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.fpc.default.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libFaceGrade.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFaceGrade.so \
@@ -589,6 +588,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/lib/mibokeh_8953_opencl.bin:$(TARGET_COPY_OUT_VENDOR)/lib/mibokeh_8953_opencl.bin \
     vendor/xiaomi/ysl/proprietary/vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so \
+    vendor/xiaomi/ysl/proprietary/vendor/lib64/hw/consumerir.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8953.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib64/libkeymasterdeviceutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterdeviceutils.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib64/libkeymasterprovision.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterprovision.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib64/libkeymasterutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterutils.so \
